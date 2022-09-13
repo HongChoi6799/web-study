@@ -1,1 +1,1 @@
-study 1 -  back-end 
+study 1 -  backEnd
